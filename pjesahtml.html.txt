@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="detyracv.css">
+    <title>My CV</title>
+</head>
+<body>
+<header class="header">
+    <div class="divheader"><h2 class="h2header">MY CV</h2></div>
+</header>
+<main>
+   <div class="sidebar">
+    <h3>Profile info</h3><hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, molestias.</p>
+    <h3>Language</h3><hr>
+    <ul>
+        <li>Albanian</li>
+        <li>English</li>
+    </ul>
+    <h3>Skills</h3><hr>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JAVASCRIPT</li>
+        <li>JAVA</li>
+    </ul>
+    <h3>Hobbies</h3><hr>
+    <ul>
+        <li>Music</li>
+        <li>Gym</li>
+        <li>Books</li>
+    </ul>
+    <h3>Socials</h3><hr>
+    <ul>
+        <li><a href="#">Twitter</a></li>
+        <li><a href="#">Instagram</a></li>
+        <li><a href="#">Facebook</a></li>
+    </ul>
+   </div>
+   <div class="main-content">
+    <div class="foto">
+    </div>
+    <h1 class="emri">OFERTE <Span class="mbiemri">RAMADANI</Span></h1><br>
+    <h3>Work Experience</h3>
+    <p>2020</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, dolorum.</p>
+    <p>2021</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, dolorum.</p>
+    <p>2022</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, dolorum.</p><br><hr><br>
+    <h3>Education</h3>
+    <p>2020</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, dolorum.</p>
+    <p>2021</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, dolorum.</p>
+    <p>2022</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, dolorum.</p>
+   </div>
+</main>
+<footer>
+    <p class="fundi">All rights reserved...blahblah</p>
+</footer> 
+</body>
+</html>
