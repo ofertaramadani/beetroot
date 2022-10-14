@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: black;
+    width: 100vw;
+    height: 100vp;
+}
+
+.container {
+    background-color: gray;
+    width: 800px;
+    height: 500px;
+    display: inline-block;
+    margin: 30px 220px;
+}
+
+.subcontainer {
+    background-color:darkslategray;
+    width: 600px;
+    height: 350px;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 70px 100px;
+}
+
+.titulli {
+    font-weight: bold;
+    color: lightblue;
+    text-align: center;
+    padding: 0 30px;
+    margin-top: 70px;
+}
+.paragrafi {
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    margin-top:40px;
+   
+}
+
+.input {
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: darkslategray;
+    font-size: larger;
+    margin: 40px 10px 0 50px;
+    border-style: none;
+    text-align: left;
+}
+.btn{
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: lightblue;
+    font-weight: bolder;
+    color: white;
+    border-color: lightblue;
+    font-size: larger;
+}
+
+.fund {
+    margin: 30px;
+    text-align: center;
+    color: antiquewhite;
+    opacity: 0.5;
+    font-style: italic;
+    font-stretch: condensed
+
+}
+.foto {
+
+    margin:-30px 0px 0px 275px;
+    width: 60px;
+    height: 60px;
+    float: left;
+    background-image: url(mainpic.png);
+    background-repeat: no-repeat;
+    border-radius: 80%;
+    background-size: 100%;
+}
